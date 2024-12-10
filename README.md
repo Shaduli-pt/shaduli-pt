@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm SHADULI PT</h1>
 <h3 align="center">A passionate ME(A)RN STACK developer from India</h3>
+### 🛠 *Tech Stack*
+- 💻 *Languages*: HTML, CSS, JavaScript  
+- 🌟 *Frontend Framework*: React.js  
+- 🌐 *Backend & Database*: Node.js, Express.js, MongoDB  
+
+---
+
+### 🌟 *About Me* 
+-  ME(A)RN STACK INTERN | LUMINAR TECHNOLAB
+- 🎓 BSC chemistry graduated from calicut university.
+- 💡 *Curious Learner*: Always exploring new technologies and improving my skills.  
+- 🛠 *Problem Solver*: Enjoy tackling challenges and finding innovative solutions.  
+- 🌱 Currently diving deeper into full-stack development.  
+- 🎯 *Goals*: To build scalable and impactful web applications.
 
 - 📫 How to reach me **shaduliptmjy2001@gmail.com**
 
